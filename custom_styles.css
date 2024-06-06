@@ -1,0 +1,41 @@
+
+/* Example Custom CSS */
+.vfrc-chat-container {
+  background-color: #004080; /* Adjust to match the background color of the site */
+  border: 1px solid #ccc; /* Border to match site design */
+  border-radius: 8px; /* Rounded corners to match the site’s style */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+}
+
+.vfrc-chat-header {
+  background-color: #004080; /* Header color */
+  color: #fff; /* Header text color */
+  font-family: 'Arial', sans-serif; /* Matching the site’s font */
+  padding: 10px; /* Padding for a better look */
+}
+
+.vfrc-message {
+  background-color: #ffffff; /* Message background color */
+  color: #333; /* Message text color */
+  font-family: 'Arial', sans-serif; /* Matching the site’s font */
+}
+
+.vfrc-input {
+  border: 1px solid #ccc; /* Input field border */
+  background-color: #ffffff; /* Input field background */
+  color: #333; /* Input text color */
+  padding: 10px; /* Padding for better input field look */
+}
+
+.vfrc-button {
+  background-color: #004080; /* Button background color */
+  color: #fff; /* Button text color */
+  border: none; /* Removing default border */
+  border-radius: 4px; /* Matching the site’s style */
+  padding: 10px 20px; /* Padding for a better look */
+  cursor: pointer; /* Cursor change on hover */
+}
+
+.vfrc-button:hover {
+  background-color: #003060; /* Darker shade on hover */
+}
